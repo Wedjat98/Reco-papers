@@ -9,7 +9,7 @@
 * [Honglei Zhang的推荐系统论文列表](https://github.com/hongleizhang/RSPapers)
 
 
-## 目录
+## 目次
 
 ### Deep Learning Recommender System
 * [[DCN] Deep & Cross Network for Ad Click Predictions (Stanford 2017)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20Recommender%20System/%5BDCN%5D%20Deep%20%26%20Cross%20Network%20for%20Ad%20Click%20Predictions%20%28Stanford%202017%29.pdf) <br />
